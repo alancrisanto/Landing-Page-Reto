@@ -25,3 +25,17 @@ p{
     font-size: 2em;
     font-family: "Comfortaa", cursive;
 }
+
+.divider{
+    color: #C5C3C6;
+}
+
+img{
+    padding: 15px;
+    border-radius: 25%;
+}
+
+img:hover{
+    cursor: pointer;
+    background-color: rgb(22, 22, 22);
+}
