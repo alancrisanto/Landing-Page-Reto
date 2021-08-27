@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Source+Sans+Pro:wght@900&display=swap");
+
+body{
+    height: 100%;
+    display: grid;
+    place-items: center;
+    background-color: black ;
+}
+
+.landing{
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
+
+h1{
+    color: #C5C3C6;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 5em;
+    letter-spacing: -0.04em;
+}
+
+p{
+    color: #00FFF5;
+    font-size: 2em;
+    font-family: "Comfortaa", cursive;
+}
